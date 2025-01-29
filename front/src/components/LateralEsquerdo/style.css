@@ -1,0 +1,10 @@
+.mais-popular {
+    padding: 30px 10px;
+    
+}
+
+.mais-popular .titulo {
+    border-bottom: 1px solid;
+    padding: 10px 0;
+    margin-bottom: 30px;
+}

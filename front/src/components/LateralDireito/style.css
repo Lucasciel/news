@@ -1,0 +1,13 @@
+.ultimas-noticias {
+    padding: 30px 10px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.ultimas-noticias .titulo {
+    border-bottom: 1px solid;
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
